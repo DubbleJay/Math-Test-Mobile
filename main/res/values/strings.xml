@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Math Quiz Mobile</string>
+    <string name="quitButton">Quit</string>
+    <string name="question_word_text_view_string">Question</string>
+    <string name="slash">/</string>
+    <string name="editTextPrompt">Enter Answer Here</string>
+    <string name="enterButton">Enter</string>
+    <string name="nextButton">Next Question</string>
+    <string name="nextButtonEnd">End Game</string>
+    <string name="addition_Button">Addition</string>
+    <string name="subtraction_Button">Subtraction</string>
+    <string name="multiplication_Button">Multiplication</string>
+    <string name="division_Button">Division</string>
+    <string name="title">Math Quiz</string>
+    <string name="select_Number_Of_Questions">Select Number of Questions</string>
+    <string name="choose_Game_Type">Choose Game Type:</string>
+    <string name="correct_string">Correct!</string>
+    <string name="wrong_string">Wrong</string>
+    <string name="badInput">Please Enter a Number!</string>
+    <string name="whatIsString">What is</string>
+    <string name="additionOperator">+</string>
+    <string name="subtractionOperator">-</string>
+    <string name="multiplicationOperator">X</string>
+    <string name="divisionOperator">/</string>
+    <string name="title_activity_end_of_game">EndOfGameActivity</string>
+    <string name="end_of_game_string">End of Game</string>
+    <string name="total_questions_string">Total Questions:</string>
+    <string name="correct_count_string">Correct:</string>
+    <string name="wrong_count_string">Wrong:</string>
+    <string name="final_score_string">Final Score:</string>
+    <string name="summary">Summary</string>
+    <string name="back_to_main_menu_string">Back to Main Menu</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+</resources>
